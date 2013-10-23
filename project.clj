@@ -1,4 +1,4 @@
-(defproject net.unit8/gring "0.1.0-SNAPSHOT"
+(defproject net.unit8/gring "0.1.0"
   :description "Git server on ring."
   :url "https://github.com/kawasima/"
   :license {:name "Eclipse Public License"
